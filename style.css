@@ -5,3 +5,17 @@
     --text-grey: #8390A2;
     
 }
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #98af8f;
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+    
+
+}
+.h1 lab la-accusoft {
+    font-family: IM FELL Great Primer SC;
+}
